@@ -11,9 +11,7 @@ The weather station collects the Temperature and Humidity data of the surroundin
 
 3\. 16x2 LCD
 
-4\. DHT11 Module: DTH11 is very popular and very low-cost Digital Temperature and Humidity Sensor. It uses a
-
-Capacitive Humidity sensor, and a thermostat to measure the surrounding Air. 
+4\. DHT11 Module: DTH11 is very popular and very low-cost Digital Temperature and Humidity Sensor. It uses a Capacitive Humidity sensor, and a thermostat to measure the surrounding Air. 
 
 ![](Aspose.Words.7b3becc0-d5dc-45a4-9295-0b316d6d8590.001.png)![](Aspose.Words.7b3becc0-d5dc-45a4-9295-0b316d6d8590.002.png)
 
@@ -61,9 +59,7 @@ LCD RW –> (-) RAIL BREADBOARD
 
 LCD VO –> Potentiometer Middle Pin
 
-4\. Next, open Arduino IDE, Go to Sketch –> Include Library –> Add Zip File and then close the Arduino IDE and open it again. After doing
-
-this, you will find the library included.
+4\. Next, open Arduino IDE, Go to Sketch –> Include Library –> Add Zip File and then close the Arduino IDE and open it again. After doing this, you will find the library included.
 
 Complete the circuit as given above and get the device working!
 
