@@ -65,6 +65,8 @@ Complete the circuit as given above and get the device working!
 
 ![](Aspose.Words.7b3becc0-d5dc-45a4-9295-0b316d6d8590.005.png)
 
+**Project Video** https://drive.google.com/file/d/1yyPbHYKoaPGMVhWFNBiqbyWIUNZa_vbz/view?usp=share_link
+
 **Contributors:**
 - [Ankit](https://github.com/Ankit-2409)
 - [Pratham](https://github.com/pratham-agarwalla)
